@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JsonSchemaMappingsProjectConfiguration">
+    <state>
+      <map>
+        <entry key="chart">
+          <value>
+            <SchemaInfo>
+              <option name="generatedName" value="New Schema" />
+              <option name="name" value="chart" />
+              <option name="relativePathToSchema" value="https://json.schemastore.org/chart.json" />
+            </SchemaInfo>
+          </value>
+        </entry>
+        <entry key="kustomization">
+          <value>
+            <SchemaInfo>
+              <option name="generatedName" value="New Schema" />
+              <option name="name" value="kustomization" />
+              <option name="relativePathToSchema" value="https://json.schemastore.org/kustomization" />
+            </SchemaInfo>
+          </value>
+        </entry>
+      </map>
+    </state>
+  </component>
+</project>
